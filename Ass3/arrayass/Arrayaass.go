@@ -1,4 +1,6 @@
-package main
+package Arrayass
+
+import "fmt"
 
 func main(){
 	var  givenarray = []int {2,3,4,5,6,6,7,7,8,8,2,4}
